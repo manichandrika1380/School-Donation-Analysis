@@ -67,7 +67,4 @@ To run this project locally, follow these steps:
 
 The Jupyter Notebook contains a series of steps for data cleaning, exploration, and visualization. By executing each cell, you can follow the analysis process and modify it as needed to suit your specific dataset or objectives.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
